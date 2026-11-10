@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ChadCSong/ShineButton/commit/91983d10e451ed1a294b1556283a6ac274c30c76",
       "git:hexsha": "91983d10e451ed1a294b1556283a6ac274c30c76",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ChadCSong/ShineButton/commit/57c00a8bb7cc27399239218580f54292c54ae809",
